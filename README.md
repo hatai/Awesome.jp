@@ -1,3 +1,3 @@
 # README
 
-- [Awesome Python](Awesomw-Python.md)
+- [Awesome Python](/hatai/Awesome.jp/blob/master/Awesome-Python.md)
