@@ -32,15 +32,15 @@
 
 * [algorithms](https://github.com/keon/algorithms) - Python のデータ構造とアルゴリズムの小さな例.
 * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - 共通のデザインパターンを実装するためのシンプルで効果的なライブラリ.
-* [python-ds](https://github.com/prabhupant/python-ds) - コーディングインタビュー対策に使える Python のデータ構造とアルゴリズムのクリーンでシンプルなコレクション。
+* [python-ds](https://github.com/prabhupant/python-ds) - コーディングインタビュー対策に使える Python のデータ構造とアルゴリズムのクリーンでシンプルなコレクション. 
 * [python-patterns](https://github.com/faif/python-patterns) - Pythonでのデザインパターンのコレクション.
 * [sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - SortedList, SortedDict, および SortedSet 型の高速で純粋なPython実装.
-* [transitions](https://github.com/pytransitions/transitions) - Python での軽量のオブジェクト指向有限ステートマシンの実装。
+* [transitions](https://github.com/pytransitions/transitions) - Python での軽量のオブジェクト指向有限ステートマシンの実装. 
 
 
 ## ASGI サーバー
 
-* [uvicorn](https://github.com/encode/uvicorn) - Uvicorn は uvloop および httptools を使用した、非常に早い ASGI サーバーの実装です.
+* [uvicorn](https://github.com/encode/uvicorn) - Uvicorn は uvloop および httptools を使用した, 非常に早い ASGI サーバーの実装です.
 
 
 ## 非同期プログラミング
@@ -58,9 +58,9 @@
 * Audio
 * [audioread](https://github.com/beetbox/audioread) - オーディオデコードクロスライブラリ（GStreamer + Core Audio + MAD + FFmpeg).
 * [dejavu](https://github.com/worldveil/dejavu) - オーディオフィンガープリンティングと認識.
-* [matchering](https://github.com/sergree/matchering) - 自動化されたリファレンスオーディオマスタリングライブラリ。
+* [matchering](https://github.com/sergree/matchering) - 自動化されたリファレンスオーディオマスタリングライブラリ. 
 * [mingus](http://bspaans.github.io/python-mingus/) - MIDI ファイルと再生をサポートする高度な音楽理論と表記パッケージ.
-* [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - 音声特徴抽出、分類、セグメンテーションおよびその応用
+* [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - 音声特徴抽出, 分類, セグメンテーションおよびその応用
 * [pydub](https://github.com/jiaaro/pydub) - シンプルで簡単な高レベルのインターフェイスでオーディオを操作.
 * [TimeSide](https://github.com/Parisson/TimeSide) - オープンな Web オーディオ処理フレームワーク.
 * [beets](http://beets.io/) - 音楽ライブラリマネージャーと [MusicBrainz](https://musicbrainz.org/) タガー.
@@ -139,7 +139,7 @@
 * [wagtail](https://wagtail.io/) - Django のコンテンツマネジメントシステム.
 * [django-cms](https://www.django-cms.org/en/) - オープンソースエンタープライズ CMS は, Django に基づいています.
 * [feincms](https://github.com/feincms/feincms) - Django 上に構築された最先端のコンテンツ管理システムのひとつ.
-* [indico](https://github.com/indico/indico) - [CERN](https://en.wikipedia.org/wiki/CERN) で作成された、豊富な機能を備えるイベントマネージャー。
+* [indico](https://github.com/indico/indico) - [CERN](https://en.wikipedia.org/wiki/CERN) で作成された, 豊富な機能を備えるイベントマネージャー. 
 * [Kotti](https://github.com/Kotti/Kotti) - Pyramid 上に構築された高レベルの Pythonic Web アプリケーションフレームワーク.
 * [mezzanine](https://github.com/stephenmcd/mezzanine) - 強力で一貫性のある, 柔軟なコンテンツ管理プラットフォーム.
 * [plone](https://plone.org/) - オープンソースアプリケーションサーバー Zope の上に構築された CMS.
@@ -157,7 +157,7 @@
 * [code2flow](https://github.com/scottrogowski/code2flow) - Python と JavaScript コードを DOT フローチャートに変換する.
 * [prospector](https://github.com/PyCQA/prospector) - Python コード解析ツール.
 * [pycallgraph](https://github.com/gak/pycallgraph) - Python アプリケーションのフロー（コールグラフ）を視覚化するライブラリ.
-* [vulture](https://github.com/jendrikseipp/vulture) - デッドコードを発見するためのツール。
+* [vulture](https://github.com/jendrikseipp/vulture) - デッドコードを発見するためのツール. 
 
 ### コードリンタ
 
@@ -174,7 +174,7 @@
 *[awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) も参照してください.*
 
 * [mypy](http://mypy-lang.org/) - コンパイル時に変数の型をチェックする.
-* [typeshed](https://github.com/python/typeshed) - 静的型を使用した、Pythonのライブラリスタブのコレクション。
+* [typeshed](https://github.com/python/typeshed) - 静的型を使用した, Pythonのライブラリスタブのコレクション. 
 * [pyre-check](https://github.com/facebook/pyre-check) - 実行型チェック.
 
 ### 静的型注釈ジェネレータ
@@ -200,7 +200,7 @@
 * [asciimatics](https://github.com/peterbrittain/asciimatics) - フルスクリーンのテキスト UI （インタラクティブフォームから ASCII アニメーションまで） を作成するためのパッケージ.
 * [bashplotlib](https://github.com/glamp/bashplotlib) - ターミナルで基本的なプロットを作成できる.
 * [colorama](https://pypi.org/project/colorama/) - プラットフォーム間で色分けされたターミナルテキスト.
-* [rich](https://github.com/willmcgugan/rich) - ターミナルで、リッチテキスト及びキレイに整形された文字を出力するためのライブラリ。
+* [rich](https://github.com/willmcgugan/rich) - ターミナルで, リッチテキスト及びキレイに整形された文字を出力するためのライブラリ. 
 * [tqdm](https://github.com/tqdm/tqdm) - CLI のための高速で拡張可能なプログレスバー.
 
 ## コマンドラインツールズ
@@ -212,7 +212,7 @@
 * [cookiecutter](https://github.com/audreyr/cookiecutter) - cookiecutters（プロジェクトテンプレート）からプロジェクトを作成するコマンドラインユーティリティ.
 * [doitlive](https://github.com/sloria/doitlive) - 端末のライブプレゼンテーションのためのツール.
 * [howdoi](https://github.com/gleitz/howdoi) - コマンドラインから行うインスタント・コーディング.
-* [Invoke](https://github.com/pyinvoke/invoke#readme) - シェル指向のサブプロセスを管理し、実行可能な Python コードを CLI で実行可能なタスクに編成するためのツール。
+* [Invoke](https://github.com/pyinvoke/invoke#readme) - シェル指向のサブプロセスを管理し, 実行可能な Python コードを CLI で実行可能なタスクに編成するためのツール. 
 * [PathPicker](https://github.com/facebook/PathPicker) - bash 出力からファイルを選択します.
 * [percol](https://github.com/mooz/percol) - UNIX 上の伝統的なパイプの概念にインタラクティブな選択肢を追加します.
 * [thefuck](https://github.com/nvbn/thefuck) - 前のコンソールコマンドを修正する.
@@ -243,10 +243,10 @@
 
 *コンピュータビジョンのためのライブラリ*
 
-* [Kornia](https://github.com/kornia/kornia/) - PyTorch 用のオープンソースの差別化可能なコンピュータービジョンライブラリ。
+* [Kornia](https://github.com/kornia/kornia/) - PyTorch 用のオープンソースの差別化可能なコンピュータービジョンライブラリ. 
 * [OpenCV](https://opencv.org/) - オープンソースコンピュータビジョンライブラリ.
 * [pytesseract](https://github.com/madmaze/pytesseract) - [Google Tesseract OCR](https://github.com/tesseract-ocr) の別ラッパー.
-* [tesserocr](https://github.com/sirfz/tesserocr) - 光学式文字認識（OCR）のための `tesseract-ocr` API のシンプルなラッパー。
+* [tesserocr](https://github.com/sirfz/tesserocr) - 光学式文字認識（OCR）のための `tesseract-ocr` API のシンプルなラッパー. 
 * [SimpleCV](https://github.com/sightmachine/SimpleCV) - コンピュータビジョンアプリケーションを構築するためのオープンソースフレームワーク.
 
 
@@ -366,7 +366,7 @@
 * [cassandra-python-driver](https://github.com/datastax/python-driver) - Cassandra のための Python ドライバ.
 * [happybase](https://github.com/wbolster/happybase) - Apache HBase の開発者向けのライブラリ.
 * [Plyvel](https://github.com/wbolster/plyvel) - LevelDB への高速で機能豊富な Python インターフェイス.
-* [py2neo](https://py2neo.org/2.0/) - Neo4j を操作するためのクライアントライブラリとツールキット。.
+* [py2neo](https://py2neo.org/2.0/) - Neo4j を操作するためのクライアントライブラリとツールキット. .
 * [pycassa](https://github.com/pycassa/pycassa) - Cassandra の Python Thrift ドライバ.
 * [pymongo](https://github.com/mongodb/mongo-python-driver) - MongoDB の公式 Python クライアント.
 * [redis-py](https://github.com/andymccurdy/redis-py) - Redis の Python クライアント.
@@ -385,7 +385,7 @@
 
 *日時を扱うライブラリ*
 
-* [Arrow](https://arrow.readthedocs.io/en/latest/) - 日付、時刻、タイムスタンプを作成、操作、フォーマット、変換するための Python ライブラリ。
+* [Arrow](https://arrow.readthedocs.io/en/latest/) - 日付, 時刻, タイムスタンプを作成, 操作, フォーマット, 変換するための Python ライブラリ. 
 * [Chronyk](https://github.com/KoffeinFlummi/Chronyk) - 人間が書いた時間と日付を解析するための Python 3 ライブラリ.
 * [dateutil](https://github.com/dateutil/dateutil) - 標準の Python [datetime](https://docs.python.org/3/library/datetime.html) モジュールの拡張.
 * [delorean](https://github.com/myusuf3/delorean/) - datetimes を扱う場合の不都合な真実を取り除くためのライブラリ.
@@ -495,8 +495,8 @@
 * [py2exe](http://www.py2exe.org/) - Python スクリプトを圧縮します (Windows).
 * [PyInstaller](https://github.com/pyinstaller/pyinstaller) - Python プログラムをスタンドアロンの実行可能ファイル（クロスプラットフォーム）に変換します.
 * [pynsist](http://pynsist.readthedocs.io/en/latest/) - Windows インストーラをビルドするツールで, インストーラは Python 自体をバンドルします.
-* [pyarmor](https://github.com/dashingsoft/pyarmor) - Python スクリプトを難読化するためのツール。
-* [shiv](https://github.com/linkedin/shiv) - 完全に自己完結型の zipapp（PEP 441）をビルドするためのコマンドラインユーティリティで、すべての依存関係が含まれています。
+* [pyarmor](https://github.com/dashingsoft/pyarmor) - Python スクリプトを難読化するためのツール. 
+* [shiv](https://github.com/linkedin/shiv) - 完全に自己完結型の zipapp（PEP 441）をビルドするためのコマンドラインユーティリティで, すべての依存関係が含まれています. 
 
 
 ## ドキュメント生成
@@ -517,7 +517,7 @@
 * [s4cmd](https://github.com/bloomreach/s4cmd) - Super S3 コマンドラインツール. 高性能です.
 * [you-get](https://you-get.org/) - Python 3 で書かれた YouTube / Youku / Niconico ビデオダウンローダー.
 * [youtube-dl](https://rg3.github.io/youtube-dl/) - YouTube からビデオをダウンロードするための小さなコマンドラインプログラムです.
-* [akshare](https://github.com/jindaxiang/akshare) - 人間のために構築された金融データインターフェースライブラリ。
+* [akshare](https://github.com/jindaxiang/akshare) - 人間のために構築された金融データインターフェースライブラリ. 
 
 
 ## 電子商取引
@@ -639,8 +639,8 @@
 * [Coconut](https://github.com/evhub/coconut) - Coconut は, シンプル, エレガント, Pythonic な関数プログラミングのために作られた Python の拡張です.
 * [fn.py](https://github.com/kachayev/fn.py) - Python での関数型プログラミング：関数型プログラミングを楽しむ上で欠けている機能の実装.
 * [funcy](https://github.com/Suor/funcy) - ファンシーで実用的な機能ツール.
-* [more-itertools](https://github.com/erikrose/more-itertools) - `itertools` を超えて、イテラブルを操作するためライブラリ。
-* [returns](https://github.com/dry-python/returns) - タイプセーフなモナド、トランスフォーマー、およびコンポジションユーティリティのセット。
+* [more-itertools](https://github.com/erikrose/more-itertools) - `itertools` を超えて, イテラブルを操作するためライブラリ. 
+* [returns](https://github.com/dry-python/returns) - タイプセーフなモナド, トランスフォーマー, およびコンポジションユーティリティのセット. 
 * [Toolz](https://github.com/pytoolz/toolz) - イテレータ, 関数, 辞書のための機能的なユーティリティの集まり.
 * [CyToolz](https://github.com/pytoolz/cytoolz/) - Cython での Toolz 実装：高性能機能ユーティリティ.
 
@@ -671,9 +671,9 @@
 
 *GraphQL とともに使用するライブラリ*
 
-* [tartiflette](https://tartiflette.io) - Python 3.6+ および asyncio 用の SDL ファーストな GraphQL エンジン実装。
-* [tartiflette-aiohttp](https://github.com/tartiflette/tartiflette-aiohttp/) - HTTP 経由で GraphQL API を公開するための Tartiflette の `aiohttp` ベースのラッパー。
-* [tartiflette-asgi](https://github.com/tartiflette/tartiflette-asgi/) - Tartiflette GraphQL エンジンの ASGI サポート。
+* [tartiflette](https://tartiflette.io) - Python 3.6+ および asyncio 用の SDL ファーストな GraphQL エンジン実装. 
+* [tartiflette-aiohttp](https://github.com/tartiflette/tartiflette-aiohttp/) - HTTP 経由で GraphQL API を公開するための Tartiflette の `aiohttp` ベースのラッパー. 
+* [tartiflette-asgi](https://github.com/tartiflette/tartiflette-asgi/) - Tartiflette GraphQL エンジンの ASGI サポート. 
 
 
 
@@ -726,7 +726,7 @@
 
 * [grequests](https://github.com/spyoungtech/grequests) - 非同期 HTTP リクエストのための request + gevent.
 * [httplib2](https://github.com/httplib2/httplib2) - 包括的な HTTP クライアントライブラリ.
-* [httpx](https://github.com/encode/httpx) - 次世代 HTTP クライアント。
+* [httpx](https://github.com/encode/httpx) - 次世代 HTTP クライアント. 
 * [requests](https://github.com/psf/requests) - Humans™ に対する HTTP リクエスト.
 * [treq](https://github.com/twisted/treq) - Twisted の HTTP クライアントの上に構築された API のような Python リクエスト.
 * [urllib3](https://github.com/shazow/urllib3) - スレッドセーフな接続プーリング, ファイルポストサポート, 親しみやすい HTTP ライブラリ.
@@ -1010,11 +1010,11 @@
 
 * [apistar](https://github.com/encode/apistar) - Python 3 用に設計されたスマート Web API フレームワーク.
 * [falcon](https://github.com/falconry/falcon) - クラウド API と Web アプリケーションバックエンドを構築するための高性能フレームワーク.
-* [FastAPI](https://github.com/tiangolo/fastapi) - Python 3.6+ のタイプヒントを使用して構築されたモダンで高速なウェブフレームワーク。
+* [FastAPI](https://github.com/tiangolo/fastapi) - Python 3.6+ のタイプヒントを使用して構築されたモダンで高速なウェブフレームワーク. 
 * [hug](https://github.com/timothycrosley/hug) - きれいな API を公開するための Python 3 フレームワーク.
 * [sandman2](https://github.com/jeffknupp/sandman2) - 既存のデータベース駆動型システム用の自動 REST API.
 * [Sanic](https://github.com/huge-success/sanic) - 高速になるように書かれたウェブサーバー.
-* [Vibora](https://vibora.io/) - Flask にインスパイアされた高速かつ、効率的で非同期なウェブフレームワーク.
+* [Vibora](https://vibora.io/) - Flask にインスパイアされた高速かつ, 効率的で非同期なウェブフレームワーク.
 
 
 ## ロボティクス
@@ -1031,7 +1031,7 @@
 
 
 * [zeroRPC](https://github.com/0rpc/zerorpc-python) - zerorpc は, [ZeroMQ](http://zeromq.org/) と [MessagePack](http://msgpack.org/) に基づく柔軟な RPC 実装です.
-* [RPyC](https://github.com/tomerfiliba/rpyc) (Remote Python Call) - Python 用の透過的で対称的な RPC ライブラリ。
+* [RPyC](https://github.com/tomerfiliba/rpyc) (Remote Python Call) - Python 用の透過的で対称的な RPC ライブラリ. 
 
 
 ## 科学
@@ -1044,7 +1044,7 @@
 * [Biopython](http://biopython.org/wiki/Main_Page) - Biopython は, 生物学的計算のために自由に利用できるツールのセットです.
 * [cclib](http://cclib.github.io/) - 計算化学パッケージの結果を解析して解釈するためのライブラリ.
 * [Colour](http://colour-science.org/) - カラー理論の変換とアルゴリズムの包括的な数の実装.
-* [Karate Club](https://github.com/benedekrozemberczki/karateclub) - グラフ構造化データ用の教師なし機械学習ツールボックス。
+* [Karate Club](https://github.com/benedekrozemberczki/karateclub) - グラフ構造化データ用の教師なし機械学習ツールボックス. 
 * [NetworkX](https://networkx.github.io/) - 複雑なネットワークのための生産性の高いソフトウェアです.
 * [NIPY](http://nipy.org) - 神経イメージングツールキットのコレクション.
 * [NumPy](http://www.numpy.org/) - Python を使った科学計算の基本パッケージ.
@@ -1079,7 +1079,7 @@
 * [marshmallow](https://github.com/marshmallow-code/marshmallow) - 複雑なオブジェクトを単純な Python データ型との間で変換するための軽量ライブラリ.
 * [pysimdjson](https://github.com/TkTech/pysimdjson) - [simdjson](https://github.com/lemire/simdjson) の Python バインディング.
 * [python-rapidjson](https://github.com/python-rapidjson/python-rapidjson) - [RapidJSON](https://github.com/Tencent/rapidjson) の Python ラッパー.
-* [ultrajson](https://github.com/esnme/ultrajson) -　Python バインディングを使用してCで記述された高速 JSON デコーダーおよびエンコーダー。
+* [ultrajson](https://github.com/esnme/ultrajson) -　Python バインディングを使用してCで記述された高速 JSON デコーダーおよびエンコーダー. 
 
 
 ## サーバレスフレームワーク
@@ -1291,7 +1291,7 @@
 
 *ビデオと GIF を操作するためのライブラリ*
 
-* [vidgear](https://github.com/abhiTronix/vidgear) - 最もパワフルなマルチスレッドビデオ処理フレームワーク。
+* [vidgear](https://github.com/abhiTronix/vidgear) - 最もパワフルなマルチスレッドビデオ処理フレームワーク. 
 * [moviepy](https://zulko.github.io/moviepy/) - アニメーション GIF を含む多くのフォーマットのスクリプトベースのムービー編集用モジュール.
 * [scikit-video](https://github.com/aizvorski/scikit-video) - SciPy のビデオ処理ルーチン.
 
@@ -1360,7 +1360,7 @@
 
 * [autobahn-python](https://github.com/crossbario/autobahn-python) - Twisted と [asyncio](https://docs.python.org/3/library/asyncio.html) の Python 用 WebSocket＆WAMP.
 * [channels](https://github.com/django/channels) - Django のデベロッパフレンドリーな非同期ライブラリ.
-* [websockets](https://github.com/aaugustin/websockets) - 正確さと単純さに焦点を当てたWebSocketサーバーとクライアントを構築するためのライブラリ。
+* [websockets](https://github.com/aaugustin/websockets) - 正確さと単純さに焦点を当てたWebSocketサーバーとクライアントを構築するためのライブラリ. 
 
 
 ## WSGI サーバ
