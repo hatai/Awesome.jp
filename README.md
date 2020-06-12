@@ -6,3 +6,4 @@
 - [Awesome Ruby](/ruby.md)
 - [Awesome JavaScript](/javascript.md)
 - [Awesome Selenium](/selenium.md)
+- [Awesome Appium](/appium.md)
