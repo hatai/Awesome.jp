@@ -50,16 +50,16 @@
 * [Rollup](https://github.com/rollup/rollup) - 次世代の ES6 モジュールバンドラー.
 * [Brunch](https://github.com/brunch/brunch) - 単純明快な設定で早い, フロントエンドウェブアプリケーションビルドツール.
 * [Parcel](https://github.com/parcel-bundler/parcel) - 高速で設定が必要ない Web アプリケーションバンドラ.
-* [Microbundle](https://github.com/developit/microbundle) - 小さいモジュールのための設定のいらないバンドラ。
+* [Microbundle](https://github.com/developit/microbundle) - 小さいモジュールのための設定のいらないバンドラ. 
 
 
 ## タイプチェック
 
 * [TypeScript](https://www.typescriptlang.org/) - プレーンな JavaScript にコンパイルされる JavaScript の型スーパーセット.
 * [Flow.js](https://flow.org/en/) - Facebook 製の静的型チェッカー.
-* [Hegel](https://jsmonk.github.io/hegel/) -  型推論にバイアスをかけた JavaScript の静的型チェッカーで、強力な型システムです。
+* [Hegel](https://jsmonk.github.io/hegel/) -  型推論にバイアスをかけた JavaScript の静的型チェッカーで, 強力な型システムです. 
 * [TypL](https://github.com/getify/TypL) - 型推論にバイアスをかけた JavaScript Type Linter
-* [Hindley Milner Definitions](https://github.com/xodio/hm-def) - Haskell のような Hindley Milner 型シグネチャを使用した JavaScript 関数のランタイム型チェック。
+* [Hindley Milner Definitions](https://github.com/xodio/hm-def) - Haskell のような Hindley Milner 型シグネチャを使用した JavaScript 関数のランタイム型チェック. 
 
 
 ## テスティングフレームワーク
@@ -75,8 +75,8 @@
 * [Protractor](https://github.com/angular/protractor) - Protractor は AngularJS アプリケーションのための end-to-end テストフレームワークです.
 * [tape](https://github.com/substack/tape) - Node.js とブラウザ用の Tap-producing テストハーネス.
 * [TestCafe](https://github.com/DevExpress/testcafe) - 最新の Web 開発スタックのための自動化されたブラウザテスト.
-* [ava](https://github.com/avajs/ava) - 🚀未来的な JavaScript テストランナー。
-* [Cypress](https://www.cypress.io/) - ブラウザ及びバックエンドで動作する E2E テストフレームワーク。
+* [ava](https://github.com/avajs/ava) - 🚀未来的な JavaScript テストランナー. 
+* [Cypress](https://www.cypress.io/) - ブラウザ及びバックエンドで動作する E2E テストフレームワーク. 
 
 
 ### アサーション
@@ -86,7 +86,7 @@
 * [react testing library](https://github.com/kentcdodds/react-testing-library) - シンプルで完全な React DOM テストユーティリティ.
 * [Sinon.JS](https://github.com/sinonjs/sinon) - JavaScript のスパイ, スタブ, モックをテストします.
 * [expect.js](https://github.com/Automattic/expect.js) - Node.js とブラウザのための最小限の BDD スタイルのアサーション.
-* [proxyquire](https://github.com/thlorenz/proxyquire) - Node.js の `require` のスタブ。
+* [proxyquire](https://github.com/thlorenz/proxyquire) - Node.js の `require` のスタブ. 
 
 
 ### カバレッジ
@@ -108,7 +108,7 @@
 * [intern](https://github.com/theintern/intern) - JavaScript 用の次世代コードテストスタック.
 * [yolpo](http://www.yolpo.com) - ブラウザ内の文ごとの JavaScript インタプリタ.
 * [puppeteer](https://github.com/GoogleChrome/puppeteer) - 公式 Google Chrome チームによるヘッドレス Chrome Node.js API.
-* [webdriverio](https://github.com/webdriverio/webdriverio) - Node.js の次世代ウェブドライバーテスト自動化フレームワーク。
+* [webdriverio](https://github.com/webdriverio/webdriverio) - Node.js の次世代ウェブドライバーテスト自動化フレームワーク. 
 
 
 ## QA ツール
@@ -122,7 +122,7 @@
 * [JSLint](https://github.com/douglascrockford/JSLint) - 言語の優れた部分だけを保つことを目指して, 高水準で厳格で有力なコード品質ツール.
 * [JavaScript Standard Style](https://github.com/feross/standard) - 設定不要のスタイルガイド, スタイルチェッカー, およびフォーマッタ.
 * [Pre-evaluate code at buildtime](https://github.com/kentcdodds/preval.macro) - ビルド時にフロントエンドの JavaScript コードを事前評価します.
-* [JS-Beautifier](https://github.com/beautify-web/js-beautify) - JS コードをフォーマットする NPM CLI およびライブラリ。
+* [JS-Beautifier](https://github.com/beautify-web/js-beautify) - JS コードをフォーマットする NPM CLI およびライブラリ. 
 
 
 ## MVC フレームワーク及びライブラリ
@@ -135,7 +135,7 @@
 * [meteor](https://github.com/meteor/meteor) - 非常にシンプルで, たあらゆる場所でデータベース化され, データオンザワイヤーである, 純粋な Javascript の Web フレームワークです.
 * [ractive](https://github.com/ractivejs/ractive) - 次世代の DOM 操作.
 * [vue](https://github.com/vuejs/vue) - インタラクティブなインターフェイスを構築するための, 直感的で高速かつ構成可能な MVVM.
-* [svelte](https://github.com/sveltejs/svelte) - Svelte は、Web アプリケーションを構築する新しい方法です。宣言型コンポーネントを取得して、DOM を外科的に更新する効率的な JavaScript に変換するコンパイラーです。
+* [svelte](https://github.com/sveltejs/svelte) - Svelte は, Web アプリケーションを構築する新しい方法です. 宣言型コンポーネントを取得して, DOM を外科的に更新する効率的な JavaScript に変換するコンパイラーです. 
 * [knockout](https://github.com/knockout/knockout) - Knockout を使用すると, JavaScript を使用してリッチで反応性の高い UI を簡単に作成できます.
 * [spine](https://github.com/spine/spine) - JavaScript アプリケーションを構築するための軽量 MVC ライブラリ.
 * [espresso.js](https://github.com/techlayer/espresso.js) - ユーザーインターフェイスを作成するための最小限の javascript ライブラリ.
@@ -160,7 +160,7 @@
 * [feathers](https://github.com/feathersjs/feathers) - 明日のアプリ向けの最小限のリアルタイム JavaScript フレームワーク.
 * [Keo](https://github.com/Wildhoney/Keo) - Shadow DOM をサポートする機能的なステートレス反応コンポーネント.
 * [atvjs](https://github.com/emadalam/atvjs) - 純粋な JavaScript を使用して, 驚くほど高速な Apple TV アプリケーションを開発できるフレームワーク.
-* [makefun](https://www.npmjs.com/package/makefun) - 条件が満たされるまで Promise を待ちます。
+* [makefun](https://www.npmjs.com/package/makefun) - 条件が満たされるまで Promise を待ちます. 
 
 
 ## Node-Powered CMS フレームワーク
@@ -175,8 +175,8 @@
 * [Nodizecms](https://github.com/nodize/nodizecms) - CoffeeScript 愛好家のための CMS.
 * [Cody](https://github.com/jcoppieters/cody) - WSYWYG エディタを備えた CMS.
 * [PencilBlue](https://github.com/pencilblue/pencilblue/) - CMS とブログのプラットフォーム.
-* [Strapi](https://github.com/strapi/strapi) - カスタム API をかんたんに構築できるヘッドレス CMS。
-* [Factor](https://github.com/fiction-com/factor) - The JavaScript CMS。
+* [Strapi](https://github.com/strapi/strapi) - カスタム API をかんたんに構築できるヘッドレス CMS. 
+* [Factor](https://github.com/fiction-com/factor) - The JavaScript CMS. 
 
 
 ## テンプレートエンジン
@@ -196,7 +196,7 @@
 * [xtemplate](https://github.com/xtemplate/xtemplate) - ノードとブラウザ用の拡張可能なテンプレートエンジンライブラリ.
 * [marko](https://github.com/marko-js/marko) -Node.js とブラウザ用の高速で軽量な HTML ベースのテンプレートエンジン. 非同期, ストリーミング, カスタムタグ, および CommonJS モジュールをコンパイルして出力します.
 * [swig](http://paularmstrong.github.io/swig/) - シンプルでパワフルで拡張可能な Node.js とブラウザベースの JavaScript テンプレートエンジン.
-* [EHTML](https://github.com/Guseyn/EHTML) - JavaScript コードを記述できない HTML フレームワーク。
+* [EHTML](https://github.com/Guseyn/EHTML) - JavaScript コードを記述できない HTML フレームワーク. 
 
 
 ## 記事及び投稿
@@ -284,7 +284,7 @@
 * [wysihtml5](https://github.com/xing/wysihtml5) - HTML 5 とプログレッシブエンハンスアプローチに基づくオープンソースのリッチテキストエディタ. 洗練されたセキュリティコンセプトを使用し, メンテナンスが不可能なタグスープや, インラインスタイルを防止し, 完全に有効な HTML 5 マークアップを生成することを目指しています.
 * [raptor-editor](https://github.com/PANmedia/raptor-editor) - Raptor は HTML5 WYSIWYG コンテンツエディタです.
 * [popline](https://github.com/kenshin54/popline) - Popline は HTML 5 リッチテキストエディタのツールバーです.
-* [Summernote](https://github.com/summernote/summernote) - とてもシンプルな WYSIWYG エディタ。
+* [Summernote](https://github.com/summernote/summernote) - とてもシンプルな WYSIWYG エディタ. 
 
 
 ## ドキュメンテーション
@@ -442,7 +442,7 @@
 * [Bluebird](https://github.com/petkaantonov/bluebird/) - 革新的な機能とパフォーマンスに焦点を当てた, 完全機能の Promise ライブラリ.
 * [when](https://github.com/cujojs/when) - 手堅く, 早く, Promise / A+ と when() の実装, その他の非同期的な機能.
 * [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) - イベントリスナーにサポートを追加するプロトタイプを提供します（ブラウザで使用可能な DOMElements の EventTarget の動作と同じです）.
-* [sporadic](https://github.com/marcoonroad/sporadic) - Node およびブラウザエンジン向けの, 構成可能な同時実行の抽象化（ストリーム、コルーチン、Goのようなチャネルなど）を Promise に追加する.
+* [sporadic](https://github.com/marcoonroad/sporadic) - Node およびブラウザエンジン向けの, 構成可能な同時実行の抽象化（ストリーム, コルーチン, Goのようなチャネルなど）を Promise に追加する.
 
 ## ルーティング
 
@@ -486,15 +486,15 @@
 
 ## API
 
-* [axios](https://github.com/axios/axios) - ブラウザと Node.js で使用できる、Promise ベースの HTTP クライアント。
+* [axios](https://github.com/axios/axios) - ブラウザと Node.js で使用できる, Promise ベースの HTTP クライアント. 
 * [bottleneck](https://github.com/SGrondin/bottleneck) - スロットルを簡単にする強力なレートリミッタです.
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) - Node.js とブラウザ用の JavaScript OAuth 1.0a 署名ジェネレータ.
 * [amygdala](https://github.com/lincolnloop/amygdala) - JavaScript による Web アプリケーション用の RESTful HTTP クライアント.
 * [jquery.rest](https://github.com/jpillora/jquery.rest) - RESTful な API を使いやすくするための jQuery プラグイン.
 * [Rails Ranger](https://github.com/victor-am/rails-ranger) - Ruby on Rails API 向けの REST クライアント.
 * [wretch](https://github.com/elbywan/wretch) - 直感的な構文の fetch のラッパー.
-* [Bearer.sh](https://github.com/Bearer/bearer-js) - OAuth / API Key / Basic などをサポートした、ユニバーサル API クライアント。
-* [FarFetch](https://github.com/WebsiteBeaver/far-fetch) - 簡潔なファイルアップロードを備えた最新の Fetch API ラッパー。
+* [Bearer.sh](https://github.com/Bearer/bearer-js) - OAuth / API Key / Basic などをサポートした, ユニバーサル API クライアント. 
+* [FarFetch](https://github.com/WebsiteBeaver/far-fetch) - 簡潔なファイルアップロードを備えた最新の Fetch API ラッパー. 
 
 
 ## ストリーミング
@@ -517,7 +517,7 @@
 * [Synaptic.js](https://github.com/cazala/synaptic) - Node.js とブラウザ用のアーキテクチャフリーのニューラルネットワークライブラリ.
 * [TensorFlow.js](https://js.tensorflow.org) - Node.js で ML モデルを訓練して, ブラウザに配備するための JavaScript ライブラリ.
 * [ml5.js](https://ml5js.org) - WEB 上でマシンラーニングができる.
-* [Synapses](https://github.com/mrdimosthenis/Synapses) - 軽量なクロスプラットフォームニューラルネットワークライブラリ。
+* [Synapses](https://github.com/mrdimosthenis/Synapses) - 軽量なクロスプラットフォームニューラルネットワークライブラリ. 
 
 
 ## ブラウザ検出
@@ -566,7 +566,7 @@
 * [FormValidation](http://formvalidation.io/) - フォームフィールドを検証するための最高の jQuery プラグインです.
 * [is.js](https://github.com/arasatasaygin/is.js) - タイプ, 正規表現, 存在, 時間などをチェックします.
 * [FieldVal](https://github.com/FieldVal/fieldval-js) - 多目的検証ライブラリ. 同期と非同期の両方の検証をサポートします.
-* [Funval](https://github.com/neuledge/funval) - 関数インターフェイスを使用したデータ検証（TypeScriptをサポート）。
+* [Funval](https://github.com/neuledge/funval) - 関数インターフェイスを使用したデータ検証（TypeScriptをサポート）. 
 
 
 ## キーバードラッパー
@@ -590,7 +590,7 @@
 * [hopscotch](https://github.com/linkedin/hopscotch) - 開発者が製品ツアーをページに簡単に追加できるようにするフレームワーク.
 * [joyride](https://github.com/zurb/joyride) - 機能ツアーの jQuery プラグイン.
 * [focusable](https://github.com/zzarcon/focusable) - ページの残りの部分にオーバーレイレイヤーを追加し, DOM 要素にスポットライトフォーカスを設定します.
-* [driver.js](https://github.com/kamranahmedse/driver.js) - パワフルでありながら軽量なバニラ JavaScript エンジン。
+* [driver.js](https://github.com/kamranahmedse/driver.js) - パワフルでありながら軽量なバニラ JavaScript エンジン. 
 
 
 ## 通知
@@ -761,7 +761,7 @@
 * [w2ui](http://w2ui.com/) - データ駆動型 Web アプリケーションのフロントエンド開発用の jQuery プラグインのセット.
 * [fluidity](https://github.com/mrmrs/fluidity) - 世界最小の完全応答型 CSS フレームワーク.
 * [Ink](https://github.com/sapo/Ink) - 迅速かつ効率的なウェブサイトの設計と, プロトタイプ作成のために SAPO で使用される HTML 5 / CSS 3 フレームワーク.
-* [DataFormsJS](https://github.com/dataformsjs/dataformsjs) - SPA のサイトを迅速に開発するための最小限の JavaScript フレームワークとスタンドアロンコンポーネント。
+* [DataFormsJS](https://github.com/dataformsjs/dataformsjs) - SPA のサイトを迅速に開発するための最小限の JavaScript フレームワークとスタンドアロンコンポーネント. 
 
 
 ## ボイラープレート
@@ -810,8 +810,8 @@
  * [Ion.Sound](https://github.com/IonDen/ion.sound) - どの Web ページでも 簡単にサウンドが鳴らせる.
  * [photobooth-js](https://github.com/WolframHempel/photobooth-js) - ユーザーがあなたのサイトで自分のアバター写真を撮ることを可能にするウィジェット.
  * [clappr](https://github.com/clappr/clappr) - Web 用拡張メディアプレーヤー http://clappr.io
- * [exifr](https://github.com/MikeKovarik/exifr) - 最速で最も用途の広いEXIF読み取りライブラリ。 https://mutiny.cz/exifr/
- * [ts-audio](https://github.com/EvandroLG/ts-audio) - 不可知論的で使いやすいライブラリで、`AudioContext` APIと連携します。
+ * [exifr](https://github.com/MikeKovarik/exifr) - 最速で最も用途の広いEXIF読み取りライブラリ.  https://mutiny.cz/exifr/
+ * [ts-audio](https://github.com/EvandroLG/ts-audio) - 不可知論的で使いやすいライブラリで, `AudioContext` APIと連携します. 
 
 
 ## タイポグラフィ
@@ -847,7 +847,7 @@
 * [Anime.js](http://animejs.com) - JavaScript アニメーションエンジン.
 * [Mo.js](http://mojs.io) - ウェブ用モーショングラフィックスツールベルト.
 * [particles.js](https://github.com/VincentGarreau/particles.js) - パーティクルを作成するための軽量な JavaScript ライブラリ.
-* [tsParticles](https://github.com/matteobruni/tsparticles) - パーティクルを作成するための軽量 TypeScript ライブラリ。particles.js のバグが修正され、多くの新機能が追加されたバージョン。　https://particles.matteobruni.it
+* [tsParticles](https://github.com/matteobruni/tsparticles) - パーティクルを作成するための軽量 TypeScript ライブラリ. particles.js のバグが修正され, 多くの新機能が追加されたバージョン. 　https://particles.matteobruni.it
 
 
 ## 画像処理
@@ -871,7 +871,7 @@
 
 * [Gatsby.js](https://github.com/gatsbyjs/gatsby) - React を使用したスタティックサイトジェネレータ.
 * [Gridsome](https://github.com/gridsome/gridsome) - Vue を用いた静的サイトジェネレーター.
-* [Docusaurus](https://github.com/facebook/docusaurus) - Facebook による React ベースの静的サイトジェネレーター。コンテンツ中心の Web サイトに最適です。
+* [Docusaurus](https://github.com/facebook/docusaurus) - Facebook による React ベースの静的サイトジェネレーター. コンテンツ中心の Web サイトに最適です. 
 
 
 ## SDK
@@ -899,10 +899,10 @@
 * [Array Explorer](https://github.com/sdras/array-explorer) and [Object Explorer](https://sdras.github.io/object-explorer/) - ネイティブ JavaScript メソッドを使用するのに最適なリソースを把握するためのリソース.
 * [Clipboard.js](https://clipboardjs.com/) - Flash やフレームを使うことなく「クリップボードにコピーする」.
 * [ky](https://github.com/sindresorhus/ky) - ブラウザ fetch API を基礎とした, 小さく, エレガントな HTTP クライアント.
-* [Fcal](https://github.com/5anthosh/fcal) - 数学式評価。
-* [emoji-button](https://github.com/joeattardi/emoji-button) - バニラ JavaScript Emoji ピッカーコンポーネント。
-* [iooxa](https://github.com/iooxa/article) - インタラクティブな科学執筆、リアクティブな文書、探索可能な説明のためのコンポーネント。
-* [Idyll](https://github.com/idyll-lang/idyll) - 探索可能な説明とインタラクティブなストーリーテリングエッセイを作成します。 [HTMLに埋め込む]（https://github.com/idyll-lang/idyll-embed）事が可能です。
+* [Fcal](https://github.com/5anthosh/fcal) - 数学式評価. 
+* [emoji-button](https://github.com/joeattardi/emoji-button) - バニラ JavaScript Emoji ピッカーコンポーネント. 
+* [iooxa](https://github.com/iooxa/article) - インタラクティブな科学執筆, リアクティブな文書, 探索可能な説明のためのコンポーネント. 
+* [Idyll](https://github.com/idyll-lang/idyll) - 探索可能な説明とインタラクティブなストーリーテリングエッセイを作成します.  [HTMLに埋め込む]（https://github.com/idyll-lang/idyll-embed）事が可能です. 
 
 
 ## Podcasts
@@ -920,9 +920,9 @@
 * [Superhero.js](http://superherojs.com) - 大きな JavaScript コードベースの作成, テスト, および維持に関するリソースのコレクション.
 * [SJSJ](https://github.com/HugoGiraudel/SJSJ) - 簡略化された JavaScript 用語集は, 現在の JavaScript エコシステムをいくつかの簡単な言葉で表している, コミュニティ主導の試みです.
 * [How to Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib) - JavaScript のオープンソースライブラリを公開するための一連の手順を網羅した包括的なガイドです.
-* [Javascript tutorial](https://hackr.io/tutorials/learn-javascript) - オンラインで JavaScript を学べる様々なチュートリアル。
-* [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) - JavaScriptでの実用的でバランスのとれたFP。
-* [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - JavaScript に適したクリーンコードの書き方。
+* [Javascript tutorial](https://hackr.io/tutorials/learn-javascript) - オンラインで JavaScript を学べる様々なチュートリアル. 
+* [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) - JavaScriptでの実用的でバランスのとれたFP. 
+* [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - JavaScript に適したクリーンコードの書き方. 
 
 
 # その他 Awesome Lists
