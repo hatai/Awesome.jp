@@ -5,3 +5,4 @@
 - [Awesome Python](/python.md)
 - [Awesome Ruby](/ruby.md)
 - [Awesome JavaScript](/javascript.md)
+- [Awesome Selenium](/selenium.md)
